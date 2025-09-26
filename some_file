@@ -1,2 +1,2 @@
 print('some file from GitHub repository')
-print('get some local changes')
+print('there are some local changes')
